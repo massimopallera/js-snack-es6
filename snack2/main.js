@@ -41,7 +41,7 @@ for (let i = 0; i < teams.length; i++){
   teams[i] = team
 }
 
-console.log(teams);
+// console.log(teams);
 
 function printTeams(o){
   
