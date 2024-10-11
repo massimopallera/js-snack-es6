@@ -51,7 +51,7 @@ function printTeams(o){
   for (let i = 0; i < o.length; i++){
     const struct = {
       name :  o[i].name,
-      score : o[i].fouls
+      fouls : o[i].fouls
     }
     newO.push(struct)
   }
